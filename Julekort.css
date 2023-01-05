@@ -187,6 +187,8 @@ p {
 
 .row .hei {
     filter: invert(0%) opacity(100%);
+    transition: background 1s;
+
     
 }
 
@@ -218,6 +220,8 @@ p {
 
 .row .heia {
     filter: invert(0%) opacity(100%);
+    transition: background 1s;
+
     
 }
 
